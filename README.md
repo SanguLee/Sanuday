@@ -1,7 +1,7 @@
-## git init 
-## git add .
-## git commit -m "commit"
-## git push
+git init 
+git add .
+git commit -m "commit"
+git push
 
 ## check amplify
 provisioning, build
